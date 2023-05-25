@@ -44,7 +44,7 @@ std::string Maia::converte_emocao_para_string(Emocao emocao_convertida)
         return ("triste");
         break;
     case (brava):
-        return ("triste");
+        return ("brava");
         break;
     case (fome):
         return ("com fome");
